@@ -9,7 +9,7 @@
 - **Travel Style**: Choose your preferred style of travel.
 - **Personalized Itinerary**: Get a detailed itinerary tailored to your preferences.
 - **Destination Images**: View photos of your destination.
-- **Weather Forecast**: Check the weather forecast for your trip.
+
 
 ## Use of Google Places API
 
@@ -20,7 +20,7 @@ We use the Google Places API to fetch images of your destination. This enhances 
 1. **Setup**: Ensure you have the required API keys in your `.env` file:
    - `GROQ_API_KEY`: For Groq AI model.
    - `GOOGLE_API_KEY`: For Google Places API.
-   - `OPENWEATHERMAP_API_KEY`: For OpenWeatherMap API.
+ 
 
 2. **Generate Itinerary**:
    - Input travel details and click "Plan My Trip".
